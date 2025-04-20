@@ -1,0 +1,2 @@
+2024-04-30 18:16:30,779 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-04-30 18:19:15,789 [INFO] I2cTimingTraitement:330 - 0x10808DD3

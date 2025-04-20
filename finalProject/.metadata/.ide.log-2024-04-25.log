@@ -1,0 +1,107 @@
+2024-04-27 19:51:31,385 [INFO] Gpio:277 - dependency for GPIO [DFSDM1, I2C2, QUADSPI, RCC, SPI3, SYS, TIM1, TIM15, USART1, USART3, USB_OTG_FS]
+2024-04-27 19:52:49,139 [INFO] Gpio:277 - dependency for GPIO [DFSDM1, I2C2, QUADSPI, RCC, SPI3, SYS, TIM1, TIM15, USART1, USART3, USB_OTG_FS]
+2024-04-27 19:52:49,172 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-04-27 19:52:49,423 [INFO] Gpio:277 - dependency for GPIO [DFSDM1, I2C2, QUADSPI, RCC, SPI3, SYS, TIM1, TIM15, USART1, USART3, USB_OTG_FS]
+2024-04-27 19:52:49,456 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-04-27 19:52:54,609 [INFO] Gpio:277 - dependency for GPIO [DFSDM1, I2C2, QUADSPI, RCC, SPI3, SYS, TIM1, TIM15, USART1, USART3, USB_OTG_FS]
+2024-04-27 19:52:54,644 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-04-27 19:52:54,892 [INFO] Gpio:277 - dependency for GPIO [DFSDM1, I2C2, QUADSPI, RCC, SPI3, SYS, TIM1, TIM15, USART1, USART3, USB_OTG_FS]
+2024-04-27 19:52:54,925 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-04-27 19:53:17,037 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 856686272 Bytes (1073741824)
+2024-04-27 19:53:18,784 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 328381416 Bytes (1069547520)
+2024-04-27 19:53:22,291 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 547011560 Bytes (1069547520)
+2024-04-27 19:53:22,443 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SPI
+2024-04-27 19:53:22,443 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8L4
+2024-04-27 19:53:22,443 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: DFSDM
+2024-04-27 19:53:22,443 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8L4
+2024-04-27 19:53:22,443 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-04-27 19:53:22,443 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-04-27 19:53:22,443 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: I2C
+2024-04-27 19:53:22,443 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USB_OTG_FS
+2024-04-27 19:53:22,443 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-04-27 19:53:22,443 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2024-04-27 19:53:22,443 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2024-04-27 19:53:22,443 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8L4
+2024-04-27 19:53:22,445 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-04-27 19:53:22,445 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: QUADSPI
+2024-04-27 19:53:22,445 [INFO] CodeGenerator:807 - code generatio: config db path: C:\Program Files\STM32CubeIDE_1.14.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.10.0.202311202037\\db\
+2024-04-27 19:53:22,589 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\aparr\Documents\enee459v\finalProject\B-L475_IOT01A1_WebServer_ws\Project\MXTmpFiles\license.tmp_save
+2024-04-27 19:53:22,663 [INFO] CodeEngine:279 - Generated code: C:\Users\aparr\Documents\enee459v\finalProject\B-L475_IOT01A1_WebServer_ws\Project\MXTmpFiles\license.tmp
+2024-04-27 19:53:22,743 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\aparr\Documents\enee459v\finalProject\B-L475_IOT01A1_WebServer_ws\Project\MXTmpFiles\gpio.tmp_save
+2024-04-27 19:53:22,871 [INFO] CodeEngine:279 - Generated code: C:\Users\aparr\Documents\enee459v\finalProject\B-L475_IOT01A1_WebServer_ws\Project\MXTmpFiles\gpio.tmp
+2024-04-27 19:53:23,807 [WARN] IPConfigManager:2946 - Warning: the RefConfig PWREx_EnableUSBVoltageDetector is not available in your config.xml file
+2024-04-27 19:53:23,839 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\aparr\Documents\enee459v\finalProject\B-L475_IOT01A1_WebServer_ws\Project\Core\Src\stm32l4xx_it.c_save
+2024-04-27 19:53:23,944 [INFO] CodeEngine:279 - Generated code: C:\Users\aparr\Documents\enee459v\finalProject\B-L475_IOT01A1_WebServer_ws\Project\Core\Src\stm32l4xx_it.c
+2024-04-27 19:53:23,965 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\aparr\Documents\enee459v\finalProject\B-L475_IOT01A1_WebServer_ws\Project\Core\Inc\stm32l4xx_it.h_save
+2024-04-27 19:53:24,021 [INFO] CodeEngine:279 - Generated code: C:\Users\aparr\Documents\enee459v\finalProject\B-L475_IOT01A1_WebServer_ws\Project\Core\Inc\stm32l4xx_it.h
+2024-04-27 19:53:24,045 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\aparr\Documents\enee459v\finalProject\B-L475_IOT01A1_WebServer_ws\Project\Core\Src\stm32l4xx_hal_msp.c_save
+2024-04-27 19:53:24,140 [INFO] CodeEngine:279 - Generated code: C:\Users\aparr\Documents\enee459v\finalProject\B-L475_IOT01A1_WebServer_ws\Project\Core\Src\stm32l4xx_hal_msp.c
+2024-04-27 19:53:24,147 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\aparr\Documents\enee459v\finalProject\B-L475_IOT01A1_WebServer_ws\Project\MXTmpFiles\system.tmp_save
+2024-04-27 19:53:24,194 [INFO] CodeEngine:279 - Generated code: C:\Users\aparr\Documents\enee459v\finalProject\B-L475_IOT01A1_WebServer_ws\Project\MXTmpFiles\system.tmp
+2024-04-27 19:53:24,219 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\aparr\Documents\enee459v\finalProject\B-L475_IOT01A1_WebServer_ws\Project\Core\Inc\stm32l4xx_hal_conf.h_save
+2024-04-27 19:53:24,305 [INFO] CodeEngine:335 - Generated code: C:\Users\aparr\Documents\enee459v\finalProject\B-L475_IOT01A1_WebServer_ws\Project\Core\Inc\stm32l4xx_hal_conf.h
+2024-04-27 19:53:24,327 [WARN] IPConfigManager:3440 - IP not found : TIM
+2024-04-27 19:53:24,327 [WARN] IPConfigManager:3440 - IP not found : USB_OTG
+2024-04-27 19:53:24,329 [WARN] CodeGenerator:3939 - IP not found : null
+2024-04-27 19:53:24,329 [WARN] CodeGenerator:3939 - IP not found : null
+2024-04-27 19:53:24,350 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\aparr\Documents\enee459v\finalProject\B-L475_IOT01A1_WebServer_ws\Project\Core\Inc\main.h_save
+2024-04-27 19:53:24,442 [INFO] CodeEngine:279 - Generated code: C:\Users\aparr\Documents\enee459v\finalProject\B-L475_IOT01A1_WebServer_ws\Project\Core\Inc\main.h
+2024-04-27 19:53:24,467 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\aparr\Documents\enee459v\finalProject\B-L475_IOT01A1_WebServer_ws\Project\Core\Src\main.c_save
+2024-04-27 19:53:24,565 [INFO] CodeEngine:279 - Generated code: C:\Users\aparr\Documents\enee459v\finalProject\B-L475_IOT01A1_WebServer_ws\Project\Core\Src\main.c
+2024-04-27 19:53:24,946 [INFO] ProjectBuilder:3076 - Time for Copy HAL[1] : 174mS.
+2024-04-27 19:53:24,948 [INFO] ProjectBuilder:4485 - Project Generator version: 4.2.0-B44
+2024-04-27 19:53:25,047 [INFO] ConfigFileManager:1495 - The Die is : DIE415
+2024-04-27 19:53:27,054 [INFO] ProjectBuilder:4747 - Time for Generating toolchain IDE Files: 2106mS.
+2024-04-27 19:53:27,054 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 0mS.
+2024-04-27 19:53:27,056 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 0mS.
+2024-04-27 19:54:07,923 [INFO] Gpio:277 - dependency for GPIO [DFSDM1, I2C2, QUADSPI, RCC, SPI3, SYS, TIM1, TIM15, USART1, USART3, USB_OTG_FS]
+2024-04-27 19:54:07,962 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-04-27 19:54:08,283 [INFO] Gpio:277 - dependency for GPIO [DFSDM1, I2C2, QUADSPI, RCC, SPI3, SYS, TIM1, TIM15, USART1, USART3, USB_OTG_FS]
+2024-04-27 19:54:08,337 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-04-27 19:54:09,672 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 377872192 Bytes (1073741824)
+2024-04-27 19:54:10,837 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 420337472 Bytes (1073741824)
+2024-04-27 19:54:12,012 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 548790080 Bytes (1073741824)
+2024-04-27 19:54:12,176 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SPI
+2024-04-27 19:54:12,176 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8L4
+2024-04-27 19:54:12,176 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: DFSDM
+2024-04-27 19:54:12,176 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8L4
+2024-04-27 19:54:12,176 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-04-27 19:54:12,177 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-04-27 19:54:12,177 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: I2C
+2024-04-27 19:54:12,177 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USB_OTG_FS
+2024-04-27 19:54:12,177 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-04-27 19:54:12,177 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2024-04-27 19:54:12,177 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2024-04-27 19:54:12,177 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8L4
+2024-04-27 19:54:12,177 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-04-27 19:54:12,177 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: QUADSPI
+2024-04-27 19:54:12,177 [INFO] CodeGenerator:807 - code generatio: config db path: C:\Program Files\STM32CubeIDE_1.14.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.10.0.202311202037\\db\
+2024-04-27 19:54:12,269 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\aparr\Documents\enee459v\finalProject\B-L475_IOT01A1_WebServer_ws\Project\MXTmpFiles\license.tmp_save
+2024-04-27 19:54:12,342 [INFO] CodeEngine:279 - Generated code: C:\Users\aparr\Documents\enee459v\finalProject\B-L475_IOT01A1_WebServer_ws\Project\MXTmpFiles\license.tmp
+2024-04-27 19:54:12,406 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\aparr\Documents\enee459v\finalProject\B-L475_IOT01A1_WebServer_ws\Project\MXTmpFiles\gpio.tmp_save
+2024-04-27 19:54:12,493 [INFO] CodeEngine:279 - Generated code: C:\Users\aparr\Documents\enee459v\finalProject\B-L475_IOT01A1_WebServer_ws\Project\MXTmpFiles\gpio.tmp
+2024-04-27 19:54:13,343 [WARN] IPConfigManager:2946 - Warning: the RefConfig PWREx_EnableUSBVoltageDetector is not available in your config.xml file
+2024-04-27 19:54:13,370 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\aparr\Documents\enee459v\finalProject\B-L475_IOT01A1_WebServer_ws\Project\Core\Src\stm32l4xx_it.c_save
+2024-04-27 19:54:13,424 [INFO] CodeEngine:279 - Generated code: C:\Users\aparr\Documents\enee459v\finalProject\B-L475_IOT01A1_WebServer_ws\Project\Core\Src\stm32l4xx_it.c
+2024-04-27 19:54:13,438 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\aparr\Documents\enee459v\finalProject\B-L475_IOT01A1_WebServer_ws\Project\Core\Inc\stm32l4xx_it.h_save
+2024-04-27 19:54:13,478 [INFO] CodeEngine:279 - Generated code: C:\Users\aparr\Documents\enee459v\finalProject\B-L475_IOT01A1_WebServer_ws\Project\Core\Inc\stm32l4xx_it.h
+2024-04-27 19:54:13,496 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\aparr\Documents\enee459v\finalProject\B-L475_IOT01A1_WebServer_ws\Project\Core\Src\stm32l4xx_hal_msp.c_save
+2024-04-27 19:54:13,593 [INFO] CodeEngine:279 - Generated code: C:\Users\aparr\Documents\enee459v\finalProject\B-L475_IOT01A1_WebServer_ws\Project\Core\Src\stm32l4xx_hal_msp.c
+2024-04-27 19:54:13,596 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\aparr\Documents\enee459v\finalProject\B-L475_IOT01A1_WebServer_ws\Project\MXTmpFiles\system.tmp_save
+2024-04-27 19:54:13,637 [INFO] CodeEngine:279 - Generated code: C:\Users\aparr\Documents\enee459v\finalProject\B-L475_IOT01A1_WebServer_ws\Project\MXTmpFiles\system.tmp
+2024-04-27 19:54:13,655 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\aparr\Documents\enee459v\finalProject\B-L475_IOT01A1_WebServer_ws\Project\Core\Inc\stm32l4xx_hal_conf.h_save
+2024-04-27 19:54:13,744 [INFO] CodeEngine:335 - Generated code: C:\Users\aparr\Documents\enee459v\finalProject\B-L475_IOT01A1_WebServer_ws\Project\Core\Inc\stm32l4xx_hal_conf.h
+2024-04-27 19:54:13,768 [WARN] IPConfigManager:3440 - IP not found : TIM
+2024-04-27 19:54:13,768 [WARN] IPConfigManager:3440 - IP not found : USB_OTG
+2024-04-27 19:54:13,769 [WARN] CodeGenerator:3939 - IP not found : null
+2024-04-27 19:54:13,769 [WARN] CodeGenerator:3939 - IP not found : null
+2024-04-27 19:54:13,785 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\aparr\Documents\enee459v\finalProject\B-L475_IOT01A1_WebServer_ws\Project\Core\Inc\main.h_save
+2024-04-27 19:54:13,878 [INFO] CodeEngine:279 - Generated code: C:\Users\aparr\Documents\enee459v\finalProject\B-L475_IOT01A1_WebServer_ws\Project\Core\Inc\main.h
+2024-04-27 19:54:13,897 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\aparr\Documents\enee459v\finalProject\B-L475_IOT01A1_WebServer_ws\Project\Core\Src\main.c_save
+2024-04-27 19:54:14,005 [INFO] CodeEngine:279 - Generated code: C:\Users\aparr\Documents\enee459v\finalProject\B-L475_IOT01A1_WebServer_ws\Project\Core\Src\main.c
+2024-04-27 19:54:14,301 [INFO] ProjectBuilder:3076 - Time for Copy HAL[1] : 108mS.
+2024-04-27 19:54:14,302 [INFO] ProjectBuilder:4485 - Project Generator version: 4.2.0-B44
+2024-04-27 19:54:14,381 [INFO] ConfigFileManager:1495 - The Die is : DIE415
+2024-04-27 19:54:15,376 [INFO] ProjectBuilder:4747 - Time for Generating toolchain IDE Files: 1074mS.
+2024-04-27 19:54:15,376 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 0mS.
+2024-04-27 19:54:15,379 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 0mS.

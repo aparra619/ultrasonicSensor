@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="selection" value="Reset"/>
+		<item key="wrap" value="true"/>
+		<item key="casesensitive" value="false"/>
+		<item key="wholeword" value="false"/>
+		<item key="incremental" value="false"/>
+		<item key="isRegEx" value="false"/>
+		<list key="findhistory">
+			<item value="reset"/>
+			<item value="GPIO_PIN_8"/>
+			<item value="ism"/>
+			<item value="UltSens_ECHO_Pin"/>
+			<item value="Ult_Sens_TRIG_Pin"/>
+			<item value="UltSens_Echo_D9_Pin"/>
+			<item value="tim1"/>
+			<item value="__HAL_RCC_TIM15_CLK_ENABLE()."/>
+			<item value="__HAL_RCC_TIM1_CLK_ENABLE()."/>
+			<item value="test_Pin"/>
+			<item value="MX_GPIO_Init"/>
+			<item value="echo"/>
+			<item value="trig"/>
+			<item value="pb"/>
+		</list>
+		<list key="replacehistory">
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="1809"/>
+		<item key="DIALOG_Y_ORIGIN" value="820"/>
+		<item key="DIALOG_WIDTH" value="511"/>
+		<item key="DIALOG_HEIGHT" value="523"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-18|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+</section>
